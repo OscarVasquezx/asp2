@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICAS ARCIDES\\practica 3\\asp\\2_19795372asp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2A35-280B-448D-A4E4-88BEAEE24755}|2_19795372asp\\2_19795372asp.csproj|C:\\Users\\MINEDUCYT\\Desktop\\PRACTICAS ARCIDES\\practica 3\\asp\\2_19795372asp\\2_19795372asp\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8FFB2A35-280B-448D-A4E4-88BEAEE24755}|2_19795372asp\\2_19795372asp.csproj|solutionrelative:2_19795372asp\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2A35-280B-448D-A4E4-88BEAEE24755}|2_19795372asp\\2_19795372asp.csproj|C:\\Users\\MINEDUCYT\\Desktop\\PRACTICAS ARCIDES\\practica 3\\asp\\2_19795372asp\\2_19795372asp\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFB2A35-280B-448D-A4E4-88BEAEE24755}|2_19795372asp\\2_19795372asp.csproj|solutionrelative:2_19795372asp\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2A35-280B-448D-A4E4-88BEAEE24755}|2_19795372asp\\2_19795372asp.csproj|c:\\users\\mineducyt\\desktop\\practicas arcides\\practica 3\\asp\\2_19795372asp\\2_19795372asp\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFB2A35-280B-448D-A4E4-88BEAEE24755}|2_19795372asp\\2_19795372asp.csproj|solutionrelative:2_19795372asp\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFB2A35-280B-448D-A4E4-88BEAEE24755}|2_19795372asp\\2_19795372asp.csproj|C:\\Users\\MINEDUCYT\\Desktop\\PRACTICAS ARCIDES\\practica 3\\asp\\2_19795372asp\\2_19795372asp\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8FFB2A35-280B-448D-A4E4-88BEAEE24755}|2_19795372asp\\2_19795372asp.csproj|solutionrelative:2_19795372asp\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICAS ARCIDES\\practica 3\\asp\\2_19795372asp\\2_19795372asp\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "2_19795372asp\\WebForm2.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICAS ARCIDES\\practica 3\\asp\\2_19795372asp\\2_19795372asp\\WebForm2.aspx.cs",
+              "RelativeToolTip": "2_19795372asp\\WebForm2.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:06:04.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICAS ARCIDES\\practica 3\\asp\\2_19795372asp\\2_19795372asp\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "2_19795372asp\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICAS ARCIDES\\practica 3\\asp\\2_19795372asp\\2_19795372asp\\WebForm2.aspx",
+              "RelativeToolTip": "2_19795372asp\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T21:01:57.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICAS ARCIDES\\practica 3\\asp\\2_19795372asp\\2_19795372asp\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "2_19795372asp\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICAS ARCIDES\\practica 3\\asp\\2_19795372asp\\2_19795372asp\\WebForm1.aspx.cs",
+              "RelativeToolTip": "2_19795372asp\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:04:17.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICAS ARCIDES\\practica 3\\asp\\2_19795372asp\\2_19795372asp\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "2_19795372asp\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICAS ARCIDES\\practica 3\\asp\\2_19795372asp\\2_19795372asp\\WebForm1.aspx",
+              "RelativeToolTip": "2_19795372asp\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T21:01:39.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
